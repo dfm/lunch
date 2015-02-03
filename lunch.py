@@ -133,46 +133,6 @@ def fetch(clobber=False, ntot=1000, max_page=5, page=50, sig=0.5):
     return venues
 
 
-def train(clobber=False):
-    with open(VENUES_FILE, "r") as f:
-        venues = json.load(f)
-    inds = np.arange(len(venues["venues"]))
-    np.random.shuffle(inds)
-
-    for count, i in enumerate(inds):
-        venue = venues["venues"][i]
-        v = venue["venue"]
-
-        if "good" in venue and not clobber:
-            continue
-
-        distance = venue["distance"]
-        price = v.get("price", {}).get("message", "Very Expensive")
-        rating = v.get("rating", 0.0)
-
-        if distance > 1.0 or price == "Very Expensive" or rating < 6.0:
-            r = False
-        else:
-            # Print the restaurant info.
-            print(u"\n{0}; {1}; {2}"
-                  .format(v["name"],
-                          v["location"]["formattedAddress"][0],
-                          v["categories"][0]["shortName"]))
-            print("distance: {0:.3f}; price: {1}; rating: {2}"
-                  .format(distance, price, rating))
-
-            # Get some feedback.
-            r = raw_input("Good? [N/y] ") in ["Y", "y"]
-            print("{0} samples".format(count))
-
-        # Update the file.
-        venues["venues"][i]["good"] = r
-        if (count + 1) % 13 == 0:
-            print("Writing file...")
-            with open(VENUES_FILE, "w") as f:
-                json.dump(venues, f, indent=2)
-
-
 def build(clobber=False):
     with open(VENUES_FILE, "r") as f:
         venues = json.load(f)
@@ -227,9 +187,12 @@ def build(clobber=False):
          & (df.category != "Bakery") & (df.category != "Cupcakes")
          & (df.category != "Snacks") & (df.category != u"Café"))
     df.score = df["score"].where(m, -np.inf)
-    final = df.sort("score")[["id", "name", "address", "distance", "rating",
-                              "price", "category", "score"]][-100:]
-    final.to_csv("lunch.csv", encoding="utf-8", index=False)
+    cols = ["id", "name", "address", "distance", "rating", "price",
+            "category"]
+    final = df.sort("score")[-100:]
+    final["random"] = np.random.rand(len(final))
+    final.sort("random")[cols].to_csv("lunch.csv", encoding="utf-8",
+                                      index=False)
 
 
 if __name__ == "__main__":
@@ -241,10 +204,6 @@ if __name__ == "__main__":
 
     elif "fetch" in sys.argv:
         fetch(clobber="clobber" in sys.argv)
-        sys.exit(0)
-
-    elif "train" in sys.argv:
-        train(clobber="clobber" in sys.argv)
         sys.exit(0)
 
     elif "build" in sys.argv:

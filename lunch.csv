@@ -1,101 +1,101 @@
-id,name,address,distance,rating,price,category,score
-40a55d80f964a52020f31ee3,Clinton St. Baking Co. & Restaurant,4 Clinton St (at E Houston St),1.22204360583,9.2,2,Breakfast,-4.02669528728
-5484890c498e985cf4e3c076,Sweetgreen,100 Kenmare St (btwn Cleveland & Mulberry St),0.875640033736,9.1,2,Salad,-4.00337273434
-3fd66200f964a52058eb1ee3,Otafuku x Medetai,220 E 9th St (btwn Stuyvesant St. & 2nd Ave.),0.492172764676,8.7,1,Japanese,-4.00111701514
-49ef26f3f964a52082681fe3,Kesté Pizza & Vino,271 Bleecker St (btw Morton & Jones St.),0.800343470028,9.1,2,Pizza,-3.94027483501
-3fd66200f964a520d0e41ee3,Lil' Frankie's,19 1st Ave (btw 1st & 2nd),0.7981373358,9.1,2,Italian,-3.9385116034
-543075b3498e283e38ad9dec,Cotenna,21 Bedford St,0.784258982335,9.1,2,Italian,-3.92753107569
-507e0b2e011ca7f458d10d2f,Westville,333 Hudson St (at Charlton St),1.13756659046,9.2,2,American,-3.92702887387
-504a7d20e4b01681208e669d,Cata,245 Bowery (at Stanton),0.709350585451,9.1,2,Tapas,-3.87158912654
-4aabe6a8f964a520cb5a20e3,Two Boots East Village,42 Avenue A (3rd St),0.991056962551,8.8,1,Pizza,-3.87109695151
-4d86c784af642c0f4f8d0fb1,Souvlaki GR,116 Stanton St (btwn Essex & Ludlow St.),1.07047380282,9.2,2,Greek,-3.85295708126
-4de987f018386283a3cd6d3c,Ngam,99 3rd Ave (at 13th St),0.660844382494,9.1,2,Thai,-3.83835764894
-4e39ea7688772c3bf11d244f,Tertulia,359 6th Avenue (between West 4th and Washington Place),0.639036280932,9.1,2,Spanish,-3.82418368417
-3fd66200f964a520b8ea1ee3,Veselka,144 2nd Ave (at E 9th St),0.617025293855,9.1,2,Ukrainian,-3.81036010663
-3fd66200f964a5209de41ee3,Supper,156 E 2nd St (btwn Ave A & B),1.01620957499,9.2,2,Italian,-3.79634095015
-3fd66200f964a52040e71ee3,Westville,210 W 10th St. (btwn Bleecker & W 4th St.),1.01309187567,9.2,2,American,-3.79317757428
-4b4f6600f964a520cf0427e3,Red Bamboo,140 W 4th St (btwn 6th Ave. & MacDougal St.),0.569200903224,9.1,2,Vegetarian / Vegan,-3.78199483412
-3fd66200f964a52044e61ee3,Jane,100 W Houston St (btwn Thompson St & LaGuardia Pl),0.53582530668,9.1,2,American,-3.76355437964
-3fd66200f964a5200eea1ee3,Tomoe Sushi,172 Thompson St (btwn Bleecker & Houston St),0.529227961994,9.1,2,Sushi,-3.76004111788
-49bed0f6f964a520e2541fe3,Bleecker Street Pizza,69 7th Ave S (at Bleecker St),0.846694515049,8.8,1,Pizza,-3.73844580091
-41575800f964a5202f1d1fe3,Dumpling Man,100 Saint Marks Pl (1st Ave),0.826337652314,8.8,1,Dumplings,-3.72141695782
-40d38200f964a52049011fe3,Bianca,5 Bleecker St (btwn Bowery & Elizabeth St),0.431017899528,9.1,2,Italian,-3.71288821486
-4f4e44777716223249fe88b3,Mile End Delicatessen,53 Bond St (btwn Bowery & Lafayette St),0.381898659468,9.1,2,Sandwiches,-3.69292329305
-40fc6080f964a520150b1fe3,Negril Village,70 W 3rd St (at Bleecker St.),0.349916509737,9.1,2,Caribbean,-3.68122078189
-4d960605daec224beab30c3e,Coppelia,207 W 14th St (btwn 7th & 8th Ave),1.18282138611,9.3,2,Cuban,-3.67953321572
-4c0d0b440e9e9521c7d13cbd,Whitmans,406 E 9th St (btwn 1st Ave & Avenue A),0.847840104625,9.2,2,Burgers,-3.63941642151
-4dd43f99813009ae10057cd8,Dos Toros Taquería,11 Carmine St (btwn Bleecker St & 6th Ave),0.686330003087,8.8,1,Burritos,-3.61552443657
-43b9adf1f964a520e22c1fe3,John's of Bleecker Street,278 Bleecker St (at Jones St),0.813618021508,9.2,2,Pizza,-3.61098714246
-4f9aab6c003929361b5de462,Beyond Sushi,229 E 14th St (btwn 2nd & 3rd Ave),0.810677408997,9.2,2,Sushi,-3.60859893073
-459b8681f964a5208c401fe3,The Donut Pub,203 W 14th St (btwn 7th & 8th Ave),1.17247615202,8.9,1,Donuts,-3.60735016352
-509d3f257043624b64bb9eaa,Black Tree,131 Orchard St (btwn Rivington & Delancey St),1.10997681403,9.3,2,American,-3.59602426384
-4f5a449ee4b03a9f6a980169,Café Blossom,41 Carmine St (btwn Bleecker & Bedford),0.789505151086,9.2,2,Vegetarian / Vegan,-3.5916591918
-516032a2805506661091d890,Whynot Bistro,14 Christopher St (at Gay St),0.752758326086,9.2,2,French,-3.56332254875
-51ca1c8d498ef3bd0794bb0a,Otto's Tacos,141 2nd Ave (at E 9th St),0.600466020728,8.8,1,Mexican,-3.56027972102
-4edd814246907c1b465edd02,Wolfnights,99 Rivington St (Ludlow),1.1144784964,8.9,1,Sandwiches,-3.54103115947
-4d992c1e942ba093ebb5968c,THELEwala,112 Macdougal St (at Minetta St.),0.547190302791,8.8,1,Indian,-3.52970861373
-52169fba11d21db81bdab2a0,Han Dynasty,90 3rd Ave (at E 12th St),0.633189212117,9.2,2,Chinese,-3.48046428917
-49da73e1f964a5208a5e1fe3,Udon West,11 Saint Marks Pl (at 3rd Ave),0.426828198173,8.8,1,Ramen / Noodles,-3.47109115538
-537b5a29498ec121cf9fa1f4,Sweet Chick,178 Ludlow St (btwn E Houston & Stanton St),0.986604747395,9.3,2,Southern / Soul,-3.46669446379
-3fd66200f964a52023e51ee3,Takahachi,85 Avenue A (btwn E 5th & E 6th St),0.950680399565,9.3,2,Sushi,-3.43189661106
-504b98a2e4b05828d117682e,Cocoron,37 Kenmare St (btwn Elizabeth & Mott St),0.925626676674,9.3,2,Japanese,-3.40839237229
-3fd66200f964a5204de41ee3,Frank Restaurant,88 2nd Ave (at E 5th St),0.505958789686,9.2,2,Italian,-3.40799714843
-4b2ebc57f964a520e3e524e3,Teado,145D Hester St (btwn Chrystie St & Bowery),1.33632803188,9.0,1,Bubble Tea,-3.39288630439
-49cea26cf964a520665a1fe3,Parisi Bakery Delicatessen,198 Mott St (at Kenmare St.),0.877194740784,9.3,2,Sandwiches,-3.36473530663
-4cf9655334c1a09374cb390e,Cocoron,61 Delancey St (btwn Eldridge & Allen St),1.13231891974,9.4,2,Japanese,-3.361073068
-43446900f964a52073281fe3,Alidoro,105 Sullivan St (btwn Spring & Prince St),0.828884279425,9.3,2,Sandwiches,-3.32352457434
-40c10d00f964a520dd001fe3,Ruby's Cafe,219 Mulberry St (btwn Prince & Spring),0.777970073287,9.3,2,Australian,-3.28261871747
-4c780397bd346dcb56abf0ef,Flex Mussels,154 W 13th St (btwn 6th & 7th Ave),1.05433207827,9.4,2,Seafood,-3.27580806564
-3fd66200f964a52055e41ee3,Prune,54 E 1st St (at 1st Ave),0.722413293189,9.3,2,American,-3.24094048309
-3fd66200f964a52004e61ee3,Cafe Habana,17 Prince St (at Elizabeth St),0.687951592643,9.3,2,Cuban,-3.21663869691
-4b709d01f964a5204c252de3,The Meatball Shop,84 Stanton St (btwn Allen & Orchard St),0.950378596188,9.4,2,Italian,-3.17160973805
-4acbe67af964a52044c820e3,Katz's Delicatessen,205 E Houston St (at Ludlow St),0.94896811334,9.4,2,Sandwiches,-3.17027024007
-3fd66200f964a52023e61ee3,Pepe Rosso To Go,149 Sullivan St (btwn Houston & Prince),0.652571905659,8.9,1,Italian,-3.13292504603
-49b5889bf964a520fa521fe3,The Grey Dog,90 University Pl (btwn 11th & 12th St),0.541004308045,9.3,2,Breakfast,-3.12634283066
-4f7b61f6e4b07aaa5d524842,Ootoya,8 W 18th St (btwn Avenue Of The Americas & 5th Ave),1.10415943857,9.5,2,Japanese,-3.10958403289
-43640d00f964a5205a291fe3,Yakiniku West,218 E 9th St (btwn 2nd & 3rd),0.487807849424,9.3,2,Japanese,-3.09897824898
-4ff63931e4b002d4d300f75d,Siggy's Good Food,292 Elizabeth St (btwn E Houston & Bleecker St),0.48689381068,9.3,2,American,-3.09853279144
-41044980f964a520750b1fe3,Cafe Mogador,101 Saint Marks Pl (btwn 1st Ave & Avenue A),0.846099926031,9.4,2,Middle Eastern,-3.07794254241
-4f0f47650cd695a0e54cb438,Jack's Wife Freda,224 Lafayette St (btwn Kenmare & Spring St),0.835389578746,9.4,2,Mediterranean,-3.06893787414
-3fd66200f964a520c7f11ee3,Otto Enoteca Pizzeria,1 5th Ave (at E 8th St),0.33671221485,9.3,2,Pizza,-3.03668755781
-41229c00f964a520350c1fe3,Caracas Arepa Bar,91 E 7th St (btw 1st & Ave A),0.7821267492,9.4,2,Arepas,-3.02586112591
-427ff980f964a520b7211fe3,Gyu-Kaku Japanese BBQ,34 Cooper Sq (btwn E 5th & E 6th St.),0.273065838318,9.3,2,Japanese,-3.01728247603
-46936ee3f964a520d0481fe3,Shanghai Café,100 Mott St (btwn Canal & Hester St),1.32863453886,9.1,1,Chinese,-3.00263486893
-4eb5e354b8f786e2756cb884,The Meatball Shop,64 Greenwich Ave (at Perry St.),0.965508726137,9.5,2,Italian,-2.96610355012
-41abb800f964a520581e1fe3,Alta,64 W 10th St (at 6th Ave),0.681400206776,9.4,2,Tapas,-2.9521531209
-4d9f8d97a428a1cdd92acb04,Parm,248 Mulberry St (btwn Prince & Spring St),0.680976597639,9.4,2,Italian,-2.95186456327
-4dd5751a1fc7d8d86636b3b6,Xi'an Famous Foods 西安名吃,67 Bayard St. (at Mott St.),1.5305801334,9.2,1,Chinese,-2.95133777238
-45697387f964a520e53d1fe3,Despaña,408 Broome St (btwn Lafayette & Centre St),0.934881061538,9.5,2,Tapas,-2.93700129961
-4c38ced2ae2da593576301c6,Tacombi at Fonda Nolita,267 Elizabeth St (btwn E Houston & Prince St.),0.554500226753,9.4,2,Tacos,-2.87373525073
-49eeaf08f964a52078681fe3,Vanessa's Dumpling House,118 Eldridge St (btwn Broome & Grand St),1.2096488597,9.1,1,Dumplings,-2.85162518189
-5138b615e4b0cdf575993654,Peacefood Cafe,41 E 11th St (University),0.485390743201,9.4,2,Vegetarian / Vegan,-2.83780208679
-4169cd00f964a5208c1d1fe3,Freemans,1 Freeman Aly (at Rivington St),0.81634047447,9.5,2,American,-2.83320588513
-4a74a36af964a520fede1fe3,Faicco's Italian Specialities,260 Bleecker St. (at Cornelia St.),0.760083762233,9.5,2,Deli / Bodega,-2.7888636628
-4e652e06fa76cd64cf66f973,Il Buco Alimentari e Vineria,53 Great Jones St (btwn Lafayette St & Bowery),0.312566902795,9.4,2,Italian,-2.76884903436
-49da5fa7f964a5207e5e1fe3,The Smile,26 Bond St (btwn Bowery & Lafayette St),0.29285055096,9.4,2,American,-2.7628807226
-4593ed04f964a52050401fe3,The Kati Roll Company,99 Macdougal St. (btwn Bleecker & W 3rd St.),0.557800768552,9.0,1,Indian,-2.6555708487
-4abce679f964a5209d8720e3,Luke's Lobster EV,93 E 7th St (btwn 1st & Ave A),0.782691397181,9.6,2,Seafood,-2.62630291161
-503fb602ebca66a84f0287e8,Mighty Quinn's BBQ,103 2nd Ave (at E 6th St),0.50213901651,9.5,2,BBQ,-2.62607179595
-49e9549df964a520f2651fe3,Saigon Vietnamese Sandwich Deli,369 Broome St (btwn Mott & Elizabeth St.),0.990776694048,9.1,1,Sandwiches,-2.61081922873
-4cc6222106c25481d7a4a047,Rubirosa,235 Mulberry St (btwn Prince & Spring St),0.71409493083,9.6,2,Pizza,-2.57496578512
-455da1c3f964a520793d1fe3,Bite,335 Lafayette St (btwn Bleecker &  W Houston St),0.373368665276,9.0,1,Sandwiches,-2.5697020801
-4d8fa807c1b1721ee9aa4b46,AsiaDog,66 Kenmare St (btwn Mott & Mulberry),0.901074348854,9.1,1,Hot Dogs,-2.52596749108
-3fd66200f964a52098e51ee3,Murray's Bagels,500 Avenue of the Americas (btwn W 12th & W 13th St),0.86528331844,9.1,1,Bagels,-2.49435761059
-49bd4d49f964a52065541fe3,Banh Mi Saigon Bakery,198 Grand St (btwn Mulberry & Mott St),1.11288521804,9.2,1,Sandwiches,-2.39925675427
-3fd66200f964a52034eb1ee3,Phở Bằng,157 Mott St (btwn Broome & Grand St),1.07564271816,9.2,1,Vietnamese,-2.35850362857
-45ebc982f964a52091431fe3,Joe's Pizza,7 Carmine St (at 6th Ave),0.668966718232,9.1,1,Pizza,-2.34375823505
-4ae63a26f964a520caa521e3,Dos Toros Taquería,137 4th Ave (btwn E 13th & E 14th St),0.622541141061,9.1,1,Burritos,-2.31377873616
-49ff7bcef964a5202a701fe3,Mamoun's Falafel,22 Saint Marks Pl (btwn 2nd & 3rd Ave),0.457287032064,9.1,1,Falafel,-2.22455571485
-4eee5e0693add02fcd39aa10,Xe Máy Sandwich Shop,96 Saint Marks Pl (btwn 1st Ave. & Avenue A),0.816452577386,9.2,1,Sandwiches,-2.11329740556
-4ade0324f964a520586721e3,Calexico Cart,Wooster St (at Prince St),1.24314534784,9.4,1,Food Truck,-1.99270517793
-4356de00f964a520d2281fe3,Pommes Frites,123 2nd Ave (btwn E 7th St & St. Mark's Pl),0.545776389412,9.2,1,Belgian,-1.92893593362
-4ce08a08ffcf370469b12082,Saigon Shack,114 Macdougal St (at Bleecker St),0.542154983847,9.2,1,Vietnamese,-1.92696601326
-43a7557bf964a5206b2c1fe3,Punjabi Grocery & Deli,114 E 1st St (btwn 1st Ave & Ave A),0.944985505204,9.3,1,Indian,-1.92649880252
-4db9684dced7cef042e4c7d3,Taqueria Lower East Side,198 Orchard St (at E Houston St),0.921674231361,9.3,1,Mexican,-1.90474169438
-4c2a81398abca59393c8fe1f,Xi'an Famous Foods,81 Saint Marks Pl (at 1st Ave),0.746976480121,9.3,1,Chinese,-1.75898693093
-3fd66200f964a520a5e41ee3,Crif Dogs,113 Saint Marks Pl (btwn 1st & Ave A),0.908541307352,9.4,1,Hot Dogs,-1.63272365358
-4b2fadfdf964a520e6ed24e3,B & H Dairy,127 2nd Ave (btwn E. 7th & St. Marks),0.550526581598,9.3,1,Vegetarian / Vegan,-1.63153975852
-3fd66200f964a5202ee61ee3,Mamoun's Falafel,119 Macdougal St (btwn Minetta Ln & W 3rd St),0.52311096817,9.3,1,Falafel,-1.61682254251
-4f3046da7beb0cfa14dcac59,Taïm Falafel and Smoothie Bar,45 Spring St (at Mulberry St),0.791711676505,9.4,1,Falafel,-1.53340368936
-4a044315f964a520ea711fe3,Taïm Falafel and Smoothie Bar,222 Waverly Pl (btwn Perry & W 11th St),0.996491241937,9.5,1,Falafel,-1.49649739763
-4f045eeb00399761c77301e3,Prince Street Pizza,27 Prince St (btwn Mott & Elizabeth St),0.661919990512,9.4,1,Pizza,-1.43906903692
+id,name,address,distance,rating,price,category
+41229c00f964a520350c1fe3,Caracas Arepa Bar,91 E 7th St (btw 1st & Ave A),0.7821267492,9.4,2,Arepas
+4dd5751a1fc7d8d86636b3b6,Xi'an Famous Foods 西安名吃,67 Bayard St. (at Mott St.),1.5305801334,9.2,1,Chinese
+4d960605daec224beab30c3e,Coppelia,207 W 14th St (btwn 7th & 8th Ave),1.18282138611,9.3,2,Cuban
+3fd66200f964a52044e61ee3,Jane,100 W Houston St (btwn Thompson St & LaGuardia Pl),0.53582530668,9.1,2,American
+4d992c1e942ba093ebb5968c,THELEwala,112 Macdougal St (at Minetta St.),0.547190302791,8.8,1,Indian
+3fd66200f964a5202ee61ee3,Mamoun's Falafel,119 Macdougal St (btwn Minetta Ln & W 3rd St),0.52311096817,9.3,1,Falafel
+4aabe6a8f964a520cb5a20e3,Two Boots East Village,42 Avenue A (3rd St),0.991056962551,8.8,1,Pizza
+427ff980f964a520b7211fe3,Gyu-Kaku Japanese BBQ,34 Cooper Sq (btwn E 5th & E 6th St.),0.273065838318,9.3,2,Japanese
+507e0b2e011ca7f458d10d2f,Westville,333 Hudson St (at Charlton St),1.13756659046,9.2,2,American
+4b709d01f964a5204c252de3,The Meatball Shop,84 Stanton St (btwn Allen & Orchard St),0.950378596188,9.4,2,Italian
+49bed0f6f964a520e2541fe3,Bleecker Street Pizza,69 7th Ave S (at Bleecker St),0.846694515049,8.8,1,Pizza
+3fd66200f964a52034eb1ee3,Phở Bằng,157 Mott St (btwn Broome & Grand St),1.07564271816,9.2,1,Vietnamese
+4a74a36af964a520fede1fe3,Faicco's Italian Specialities,260 Bleecker St. (at Cornelia St.),0.760083762233,9.5,2,Deli / Bodega
+3fd66200f964a5204de41ee3,Frank Restaurant,88 2nd Ave (at E 5th St),0.505958789686,9.2,2,Italian
+4f9aab6c003929361b5de462,Beyond Sushi,229 E 14th St (btwn 2nd & 3rd Ave),0.810677408997,9.2,2,Sushi
+45ebc982f964a52091431fe3,Joe's Pizza,7 Carmine St (at 6th Ave),0.668966718232,9.1,1,Pizza
+4356de00f964a520d2281fe3,Pommes Frites,123 2nd Ave (btwn E 7th St & St. Mark's Pl),0.545776389412,9.2,1,Belgian
+4ff63931e4b002d4d300f75d,Siggy's Good Food,292 Elizabeth St (btwn E Houston & Bleecker St),0.48689381068,9.3,2,American
+4eb5e354b8f786e2756cb884,The Meatball Shop,64 Greenwich Ave (at Perry St.),0.965508726137,9.5,2,Italian
+4de987f018386283a3cd6d3c,Ngam,99 3rd Ave (at 13th St),0.660844382494,9.1,2,Thai
+49b5889bf964a520fa521fe3,The Grey Dog,90 University Pl (btwn 11th & 12th St),0.541004308045,9.3,2,Breakfast
+40c10d00f964a520dd001fe3,Ruby's Cafe,219 Mulberry St (btwn Prince & Spring),0.777970073287,9.3,2,Australian
+40fc6080f964a520150b1fe3,Negril Village,70 W 3rd St (at Bleecker St.),0.349916509737,9.1,2,Caribbean
+4f3046da7beb0cfa14dcac59,Taïm Falafel and Smoothie Bar,45 Spring St (at Mulberry St),0.791711676505,9.4,1,Falafel
+459b8681f964a5208c401fe3,The Donut Pub,203 W 14th St (btwn 7th & 8th Ave),1.17247615202,8.9,1,Donuts
+4d86c784af642c0f4f8d0fb1,Souvlaki GR,116 Stanton St (btwn Essex & Ludlow St.),1.07047380282,9.2,2,Greek
+4f5a449ee4b03a9f6a980169,Café Blossom,41 Carmine St (btwn Bleecker & Bedford),0.789505151086,9.2,2,Vegetarian / Vegan
+43a7557bf964a5206b2c1fe3,Punjabi Grocery & Deli,114 E 1st St (btwn 1st Ave & Ave A),0.944985505204,9.3,1,Indian
+5484890c498e985cf4e3c076,Sweetgreen,100 Kenmare St (btwn Cleveland & Mulberry St),0.875640033736,9.1,2,Salad
+504a7d20e4b01681208e669d,Cata,245 Bowery (at Stanton),0.709350585451,9.1,2,Tapas
+4c780397bd346dcb56abf0ef,Flex Mussels,154 W 13th St (btwn 6th & 7th Ave),1.05433207827,9.4,2,Seafood
+3fd66200f964a520c7f11ee3,Otto Enoteca Pizzeria,1 5th Ave (at E 8th St),0.33671221485,9.3,2,Pizza
+41044980f964a520750b1fe3,Cafe Mogador,101 Saint Marks Pl (btwn 1st Ave & Avenue A),0.846099926031,9.4,2,Middle Eastern
+4eee5e0693add02fcd39aa10,Xe Máy Sandwich Shop,96 Saint Marks Pl (btwn 1st Ave. & Avenue A),0.816452577386,9.2,1,Sandwiches
+51ca1c8d498ef3bd0794bb0a,Otto's Tacos,141 2nd Ave (at E 9th St),0.600466020728,8.8,1,Mexican
+4c0d0b440e9e9521c7d13cbd,Whitmans,406 E 9th St (btwn 1st Ave & Avenue A),0.847840104625,9.2,2,Burgers
+43640d00f964a5205a291fe3,Yakiniku West,218 E 9th St (btwn 2nd & 3rd),0.487807849424,9.3,2,Japanese
+4b2fadfdf964a520e6ed24e3,B & H Dairy,127 2nd Ave (btwn E. 7th & St. Marks),0.550526581598,9.3,1,Vegetarian / Vegan
+503fb602ebca66a84f0287e8,Mighty Quinn's BBQ,103 2nd Ave (at E 6th St),0.50213901651,9.5,2,BBQ
+40d38200f964a52049011fe3,Bianca,5 Bleecker St (btwn Bowery & Elizabeth St),0.431017899528,9.1,2,Italian
+4e652e06fa76cd64cf66f973,Il Buco Alimentari e Vineria,53 Great Jones St (btwn Lafayette St & Bowery),0.312566902795,9.4,2,Italian
+4c38ced2ae2da593576301c6,Tacombi at Fonda Nolita,267 Elizabeth St (btwn E Houston & Prince St.),0.554500226753,9.4,2,Tacos
+4f7b61f6e4b07aaa5d524842,Ootoya,8 W 18th St (btwn Avenue Of The Americas & 5th Ave),1.10415943857,9.5,2,Japanese
+3fd66200f964a52058eb1ee3,Otafuku x Medetai,220 E 9th St (btwn Stuyvesant St. & 2nd Ave.),0.492172764676,8.7,1,Japanese
+3fd66200f964a52040e71ee3,Westville,210 W 10th St. (btwn Bleecker & W 4th St.),1.01309187567,9.2,2,American
+41abb800f964a520581e1fe3,Alta,64 W 10th St (at 6th Ave),0.681400206776,9.4,2,Tapas
+49da5fa7f964a5207e5e1fe3,The Smile,26 Bond St (btwn Bowery & Lafayette St),0.29285055096,9.4,2,American
+4cf9655334c1a09374cb390e,Cocoron,61 Delancey St (btwn Eldridge & Allen St),1.13231891974,9.4,2,Japanese
+3fd66200f964a52023e61ee3,Pepe Rosso To Go,149 Sullivan St (btwn Houston & Prince),0.652571905659,8.9,1,Italian
+4ce08a08ffcf370469b12082,Saigon Shack,114 Macdougal St (at Bleecker St),0.542154983847,9.2,1,Vietnamese
+543075b3498e283e38ad9dec,Cotenna,21 Bedford St,0.784258982335,9.1,2,Italian
+49eeaf08f964a52078681fe3,Vanessa's Dumpling House,118 Eldridge St (btwn Broome & Grand St),1.2096488597,9.1,1,Dumplings
+52169fba11d21db81bdab2a0,Han Dynasty,90 3rd Ave (at E 12th St),0.633189212117,9.2,2,Chinese
+4c2a81398abca59393c8fe1f,Xi'an Famous Foods,81 Saint Marks Pl (at 1st Ave),0.746976480121,9.3,1,Chinese
+4593ed04f964a52050401fe3,The Kati Roll Company,99 Macdougal St. (btwn Bleecker & W 3rd St.),0.557800768552,9.0,1,Indian
+41575800f964a5202f1d1fe3,Dumpling Man,100 Saint Marks Pl (1st Ave),0.826337652314,8.8,1,Dumplings
+4169cd00f964a5208c1d1fe3,Freemans,1 Freeman Aly (at Rivington St),0.81634047447,9.5,2,American
+3fd66200f964a52023e51ee3,Takahachi,85 Avenue A (btwn E 5th & E 6th St),0.950680399565,9.3,2,Sushi
+509d3f257043624b64bb9eaa,Black Tree,131 Orchard St (btwn Rivington & Delancey St),1.10997681403,9.3,2,American
+537b5a29498ec121cf9fa1f4,Sweet Chick,178 Ludlow St (btwn E Houston & Stanton St),0.986604747395,9.3,2,Southern / Soul
+4ae63a26f964a520caa521e3,Dos Toros Taquería,137 4th Ave (btwn E 13th & E 14th St),0.622541141061,9.1,1,Burritos
+504b98a2e4b05828d117682e,Cocoron,37 Kenmare St (btwn Elizabeth & Mott St),0.925626676674,9.3,2,Japanese
+4edd814246907c1b465edd02,Wolfnights,99 Rivington St (Ludlow),1.1144784964,8.9,1,Sandwiches
+43446900f964a52073281fe3,Alidoro,105 Sullivan St (btwn Spring & Prince St),0.828884279425,9.3,2,Sandwiches
+49ff7bcef964a5202a701fe3,Mamoun's Falafel,22 Saint Marks Pl (btwn 2nd & 3rd Ave),0.457287032064,9.1,1,Falafel
+49da73e1f964a5208a5e1fe3,Udon West,11 Saint Marks Pl (at 3rd Ave),0.426828198173,8.8,1,Ramen / Noodles
+4d9f8d97a428a1cdd92acb04,Parm,248 Mulberry St (btwn Prince & Spring St),0.680976597639,9.4,2,Italian
+49ef26f3f964a52082681fe3,Kesté Pizza & Vino,271 Bleecker St (btw Morton & Jones St.),0.800343470028,9.1,2,Pizza
+4dd43f99813009ae10057cd8,Dos Toros Taquería,11 Carmine St (btwn Bleecker St & 6th Ave),0.686330003087,8.8,1,Burritos
+4cc6222106c25481d7a4a047,Rubirosa,235 Mulberry St (btwn Prince & Spring St),0.71409493083,9.6,2,Pizza
+40a55d80f964a52020f31ee3,Clinton St. Baking Co. & Restaurant,4 Clinton St (at E Houston St),1.22204360583,9.2,2,Breakfast
+3fd66200f964a5200eea1ee3,Tomoe Sushi,172 Thompson St (btwn Bleecker & Houston St),0.529227961994,9.1,2,Sushi
+5138b615e4b0cdf575993654,Peacefood Cafe,41 E 11th St (University),0.485390743201,9.4,2,Vegetarian / Vegan
+4e39ea7688772c3bf11d244f,Tertulia,359 6th Avenue (between West 4th and Washington Place),0.639036280932,9.1,2,Spanish
+49cea26cf964a520665a1fe3,Parisi Bakery Delicatessen,198 Mott St (at Kenmare St.),0.877194740784,9.3,2,Sandwiches
+4ade0324f964a520586721e3,Calexico Cart,Wooster St (at Prince St),1.24314534784,9.4,1,Food Truck
+516032a2805506661091d890,Whynot Bistro,14 Christopher St (at Gay St),0.752758326086,9.2,2,French
+46936ee3f964a520d0481fe3,Shanghai Café,100 Mott St (btwn Canal & Hester St),1.32863453886,9.1,1,Chinese
+4d8fa807c1b1721ee9aa4b46,AsiaDog,66 Kenmare St (btwn Mott & Mulberry),0.901074348854,9.1,1,Hot Dogs
+455da1c3f964a520793d1fe3,Bite,335 Lafayette St (btwn Bleecker &  W Houston St),0.373368665276,9.0,1,Sandwiches
+3fd66200f964a52004e61ee3,Cafe Habana,17 Prince St (at Elizabeth St),0.687951592643,9.3,2,Cuban
+3fd66200f964a520b8ea1ee3,Veselka,144 2nd Ave (at E 9th St),0.617025293855,9.1,2,Ukrainian
+3fd66200f964a520d0e41ee3,Lil' Frankie's,19 1st Ave (btw 1st & 2nd),0.7981373358,9.1,2,Italian
+4f4e44777716223249fe88b3,Mile End Delicatessen,53 Bond St (btwn Bowery & Lafayette St),0.381898659468,9.1,2,Sandwiches
+4acbe67af964a52044c820e3,Katz's Delicatessen,205 E Houston St (at Ludlow St),0.94896811334,9.4,2,Sandwiches
+43b9adf1f964a520e22c1fe3,John's of Bleecker Street,278 Bleecker St (at Jones St),0.813618021508,9.2,2,Pizza
+4abce679f964a5209d8720e3,Luke's Lobster EV,93 E 7th St (btwn 1st & Ave A),0.782691397181,9.6,2,Seafood
+49e9549df964a520f2651fe3,Saigon Vietnamese Sandwich Deli,369 Broome St (btwn Mott & Elizabeth St.),0.990776694048,9.1,1,Sandwiches
+4a044315f964a520ea711fe3,Taïm Falafel and Smoothie Bar,222 Waverly Pl (btwn Perry & W 11th St),0.996491241937,9.5,1,Falafel
+3fd66200f964a52098e51ee3,Murray's Bagels,500 Avenue of the Americas (btwn W 12th & W 13th St),0.86528331844,9.1,1,Bagels
+4f0f47650cd695a0e54cb438,Jack's Wife Freda,224 Lafayette St (btwn Kenmare & Spring St),0.835389578746,9.4,2,Mediterranean
+3fd66200f964a5209de41ee3,Supper,156 E 2nd St (btwn Ave A & B),1.01620957499,9.2,2,Italian
+4f045eeb00399761c77301e3,Prince Street Pizza,27 Prince St (btwn Mott & Elizabeth St),0.661919990512,9.4,1,Pizza
+3fd66200f964a520a5e41ee3,Crif Dogs,113 Saint Marks Pl (btwn 1st & Ave A),0.908541307352,9.4,1,Hot Dogs
+4b4f6600f964a520cf0427e3,Red Bamboo,140 W 4th St (btwn 6th Ave. & MacDougal St.),0.569200903224,9.1,2,Vegetarian / Vegan
+3fd66200f964a52055e41ee3,Prune,54 E 1st St (at 1st Ave),0.722413293189,9.3,2,American
+45697387f964a520e53d1fe3,Despaña,408 Broome St (btwn Lafayette & Centre St),0.934881061538,9.5,2,Tapas
+49bd4d49f964a52065541fe3,Banh Mi Saigon Bakery,198 Grand St (btwn Mulberry & Mott St),1.11288521804,9.2,1,Sandwiches
+4b2ebc57f964a520e3e524e3,Teado,145D Hester St (btwn Chrystie St & Bowery),1.33632803188,9.0,1,Bubble Tea
+4db9684dced7cef042e4c7d3,Taqueria Lower East Side,198 Orchard St (at E Houston St),0.921674231361,9.3,1,Mexican

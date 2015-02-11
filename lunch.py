@@ -178,19 +178,22 @@ def build(clobber=False):
     df = pd.DataFrame(data)
     df.rating = df["rating"].fillna(0.0)
     df.price = df["price"].fillna(5.0)
-    df["score"] = -0.5 * ((df.distance/1.) ** 2 +
+    df["score"] = -0.5 * ((df.distance/0.6) ** 2 +
                           ((df.rating - 10)/0.5) ** 2 +
                           (df.price) ** 2)
 
     # We don't want dessert for lunch.
-    m = ((df.category != "Desserts") & (df.category != "Ice Cream")
-         & (df.category != "Bakery") & (df.category != "Cupcakes")
-         & (df.category != "Snacks") & (df.category != u"Café"))
+    bads = ["Desserts", "Donuts", "Ice Cream", "Bakery", "Cupcakes", u"Café",
+            "Snacks", "Bubble Tea"]
+    m = df.category != bads[0]
+    for b in bads[1:]:
+        m &= df.category != b
     df.score = df["score"].where(m, -np.inf)
-    cols = ["id", "name", "address", "distance", "rating", "price",
-            "category"]
+    cols = ["completed", "name", "address", "category", "distance", "rating",
+            "price", "id"]
     final = df.sort("score")[-100:]
     final["random"] = np.random.rand(len(final))
+    final["completed"] = np.zeros(len(final), dtype=bool)
     final.sort("random")[cols].to_csv("lunch.csv", encoding="utf-8",
                                       index=False)
 
